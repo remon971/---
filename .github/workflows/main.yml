@@ -1,4 +1,4 @@
-name: @
+name: 25
 on: 
   workflow_dispatch:
 defaults:
